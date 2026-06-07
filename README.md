@@ -8,14 +8,14 @@ transit, academic spaces, and digital services, is keeping pace with enrollment 
 Framed as a "stress test" of the Hokie Experience.
 
 ## Key Findings
-- Average dining wait time: 16.1 minutes; peak hours 11 AM–1 PM
+- Average dining wait time: 16.1 minutes; peak hours 11 AM - 1 PM
 - Overall infrastructure stress score: 3.5/5 across all respondents
-- Gym crowding peaks between 5–8 PM
+- Gym crowding peaks between 5 - 8 PM
 - Hokie SPA consistently received the lowest digital satisfaction scores
 
 ## Tools Used
 - Data collection: Google Forms
-- Analysis & visualization: Tableau (see .twbx file or [Tableau Public link])
+- Analysis & visualization: Tableau (see .twbx file)
 - Data cleaning: Microsoft Excel
 
 ## Files
