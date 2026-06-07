@@ -1,10 +1,10 @@
 # Virginia Tech Campus Infrastructure Stress Test
-**Course:** Business Visualization Analytics — Pamplin College of Business, Spring 2026  
+**Course:** Business Visualization Analytics - Pamplin College of Business, Spring 2026  
 **Team:** Aakash Nihalaney, Anrunya Patole, Avi Gupta, Harsh Sahu, Kshama Purohit, Om Kapdoskar
 
 ## Overview
-Surveyed Virginia Tech students to evaluate whether campus infrastructure — dining, 
-transit, academic spaces, and digital services — is keeping pace with enrollment growth. 
+Surveyed Virginia Tech students to evaluate whether campus infrastructure i.e. dining, 
+transit, academic spaces, and digital services, is keeping pace with enrollment growth. 
 Framed as a "stress test" of the Hokie Experience.
 
 ## Key Findings
